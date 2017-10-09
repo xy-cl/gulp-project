@@ -1,0 +1,32 @@
+figure {
+  margin-top: 30px;
+}
+.demo-rongqi-ul {
+  margin-left: 20px;
+}
+.demo-rongqi-ul .demo-aside-div-li {
+  overflow: auto;
+}
+h1 {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+.demoBorder {
+  border: 1px solid red;
+  display: inline-block;
+}
+.aside-suoyin ul li {
+  width: 100px;
+  text-align: center;
+}
+.aside-suoyin ul li a {
+  font-size: 13px;
+}
+.basic-aside-rightTitle {
+  font-size: 13px;
+  height: 30px;
+  line-height: 30px;
+}
+.homeH1 {
+  border: 1px solid #ff4949;
+}
