@@ -26,7 +26,7 @@
     "gulp-rename": "^1.2.2",
     "gulp-sourcemaps": "^2.4.1",
     "gulp-uglify": "^2.0.1",
-    "http-proxy-middleware": "^0.17.4",
+    "http-proxy-middleware": "^0.21.0",
     "less-plugin-autoprefix": "^1.5.1",
     "reqwest": "^2.0.5",
     "vinyl-buffer": "^1.0.0",
